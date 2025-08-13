@@ -1,0 +1,11 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-22092016-094395";"";
+"REFERENCE";"6002-2RSH";"";
+"TraceParts.PartVersion";"1.3.3";"";
+"TraceParts.InstanceId";"10-22092016-094395JXFIXMQW0DVNYXT382MAE35C";"";
+"TraceParts.PartTitle";"Deep groove ball bearings, single row, contact seal on both sides";"";
+"SUPPLIER";"SKF";"";
+"DESIGN";"Single row deep groove ball bearing, contact seal on both sides, Bore Ø 15 mm, Outside Ø 32 mm";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"MASS";"0.0303";"";

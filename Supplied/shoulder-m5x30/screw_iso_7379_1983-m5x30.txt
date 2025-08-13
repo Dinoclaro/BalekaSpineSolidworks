@@ -1,0 +1,14 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"ISO 7379:1983 - d M5 x l 30";"";
+"MATERIAL";"Steel";"";
+"DESIGN";"Hexagon socket head shoulder screw ISO 7379:1983 - M5 x 30";"";
+"TraceParts.PartNumber";"10-10052001-102192";"";
+"STANDARD";"ISO 7379:1983";"";
+"TraceParts.PartLanguage";"en";"";
+"OMNICLASS23";"23.13.23.11.13.19";"";
+"TraceParts.InstanceId";"10-10052001-102192CXL45E46CR2L4MJZN55FOMO29";"";
+"TraceParts.PartTitle";"Shoulder bolts";"";
+"NOTE";"Class: 12.9";"";
+"TraceParts.PartVersion";"1.5.1";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStandardAcronym";"ISO";"";

@@ -1,0 +1,31 @@
+Mass properties of selected components
+     Coordinate system: -- default --
+
+Mass = 6252.52 grams
+
+Volume = 2729523.78 cubic millimeters
+
+Surface area = 721764.17  square millimeters
+
+Center of mass: ( millimeters )
+	X = 0.00
+	Y = 11.31
+	Z = 47.86
+
+Principal axes of inertia and principal moments of inertia: ( grams *  square millimeters )
+Taken at the center of mass.
+	 Ix = ( 1.00,  0.00,  0.00)   	Px = 24032000.18
+	 Iy = ( 0.00,  0.04, -1.00)   	Py = 36196820.97
+	 Iz = ( 0.00,  1.00,  0.04)   	Pz = 46493254.95
+
+Moments of inertia: ( grams *  square millimeters )
+Taken at the center of mass and aligned with the output coordinate system. (Using positive tensor notation.)
+	Lxx = 24032000.23	Lxy = -0.33	Lxz = 779.15
+	Lyx = -0.33	Lyy = 46474379.73	Lyz = -440444.29
+	Lzx = 779.15	Lzy = -440444.29	Lzz = 36215696.14
+
+Moments of inertia: ( grams *  square millimeters )
+Taken at the output coordinate system. (Using positive tensor notation.)
+	Ixx = 39153723.44	Ixy = -0.40	Ixz = 778.86
+	Iyx = -0.40	Iyy = 60795790.43	Iyz = 2945054.79
+	Izx = 778.86	Izy = 2945054.79	Izz = 37016008.65

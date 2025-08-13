@@ -1,0 +1,12 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"32-07102009-082331";"";
+"REFERENCE";"A 17";"";
+"NOTE";"Unstressed";"";
+"TraceParts.PartVersion";"1.4.9";"";
+"TraceParts.InstanceId";"32-07102009-082331DU8BANDTC3C6WQLCADJCLUSYG";"";
+"TraceParts.PartTitle";"A   Seeger-Rings for shafts DIN 471";"";
+"SUPPLIER";"SEEGER-ORBIS";"";
+"DESIGN";"A   Seeger-Rings for shafts DIN 471";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"OMNICLASS23";"23.13.23.11.13.25";"";
